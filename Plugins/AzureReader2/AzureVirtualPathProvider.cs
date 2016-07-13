@@ -7,6 +7,7 @@ using Microsoft.WindowsAzure;
 using Microsoft.WindowsAzure.Storage;
 using Microsoft.WindowsAzure.Storage.Blob;
 using ImageResizer.Util;
+using Microsoft.Azure;
 
 namespace ImageResizer.Plugins.AzureReader2 {
 
